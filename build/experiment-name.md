@@ -1,1 +1,0 @@
-## Texturing in Virtual Reality
