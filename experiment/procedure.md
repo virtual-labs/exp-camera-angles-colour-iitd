@@ -10,13 +10,10 @@ This guide details the creation of a 3D mushroom model using Blender (version 4.
 Create the basic geometry of the mushroom using primitives, sculpting, and vertex/face editing.
 
 **Before Image:** A blank Blender scene with the default cube deleted, showing an empty grid.  
-*(Placeholder: ![Before 3D Modeling](images/before_modeling.jpg) – Empty viewport in object mode.)*
 
 **Unfinished Image:** A midway point with a merged sphere (cap) and cylinder (stem), rough proportions, no details like gills or spots. Wireframe shows ~200-300 vertices and quad faces.  
-*(Placeholder: ![Unfinished Mushroom](images/unfinished_mushroom.jpg) – Wireframe view with vertices as dots, faces as shaded quads.)*
 
 **After Image:** A fully modeled mushroom with a bulbous cap, textured stem, and organic details. Wireframe in edit mode shows ~1,000+ vertices and mostly quad faces.  
-*(Placeholder: ![After 3D Modeling](images/after_modeling.jpg) – Shaded view with wireframe, vertices as orange dots, faces as blue outlines.)*
 
 ### Steps:
 1. Open Blender, create a new scene, and delete the default cube (select, X > Delete).
@@ -36,10 +33,8 @@ Create the basic geometry of the mushroom using primitives, sculpting, and verte
 Flatten the 3D model into a 2D UV map for texturing, minimizing stretching and seams.
 
 **Before Image:** The modeled mushroom in 3D view, no UV map. UV Editor is empty or shows a messy default unwrap.  
-*(Placeholder: ![Before UV Unwrapping](images/before_uv.jpg) – 3D viewport shaded, UV Editor empty.)*
 
 **After Image:** Clean UV layout in UV Editor—cap as a circular island, stem as a rectangular strip. No overlaps, efficient packing, seams marked red on 3D model.  
-*(Placeholder: ![After UV Unwrapping](images/after_uv.jpg) – Split view: 3D model with seams, UV Editor with organized islands.)*
 
 ### Steps:
 1. Select the model, enter Edit Mode (Tab). Mark seams (Ctrl+E > Mark Seam) on edges (e.g., stem length, cap underside).
@@ -58,10 +53,8 @@ Flatten the 3D model into a 2D UV map for texturing, minimizing stretching and s
 Apply colors and details to the model using the UV map, creating a realistic mushroom texture.
 
 **Before Image:** The mushroom with a plain material or checker texture, no color details. UV Editor shows the clean map from previous step.  
-*(Placeholder: ![Before Texture Painting](images/before_texture.jpg) – 3D model with gray material, UV Editor with map.)*
 
 **After Image:** A fully textured mushroom with a spotted cap (e.g., red with white spots for an Amanita-like look) and a fibrous stem. Texture map in UV Editor shows painted details.  
-*(Placeholder: ![After Texture Painting](images/after_texture.jpg) – 3D model with vibrant texture, UV Editor with painted map.)*
 
 ### Steps:
 1. In Material Properties, add a new material. In Shader Editor, add Image Texture node, create a new 2048x2048 image, and link to Base Color.
@@ -83,4 +76,3 @@ Apply colors and details to the model using the UV map, creating a realistic mus
 - For advanced realism, add subsurface scattering to the material for a softer, organic look.
 - If generating images, confirm style (e.g., realistic, stylized) and software (Blender, VR texturing tools).
 
-*Generated on October 01, 2025, 10:44 AM IST.*
