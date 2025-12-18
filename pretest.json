@@ -1,0 +1,36 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the primary purpose of texturing in VR production?",
+      "answers": {
+        "a": "To create 3D models for VR",
+        "b": "To add realistic or stylized surface details to 3D objects",
+        "c": "To generate lighting effects in a VR environment"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What technique is used to apply 2D images onto 3D models in texturing?",
+      "answers": {
+        "a": "UV mapping",
+        "b": "Ray tracing",
+        "c": "Motion capture"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of texture helps create glowing effects like neon signs in a VR environment?",
+      "answers": {
+        "a": "Normal Map",
+        "b": "Emissive Map",
+        "c": "Bump Map"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
+
