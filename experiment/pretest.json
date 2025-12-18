@@ -8,11 +8,6 @@
         "b": "To add realistic or stylized surface details to 3D objects",
         "c": "To generate lighting effects in a VR environment"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -22,11 +17,6 @@
         "a": "UV mapping",
         "b": "Ray tracing",
         "c": "Motion capture"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -38,13 +28,9 @@
         "b": "Emissive Map",
         "c": "Bump Map"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
 }
+
