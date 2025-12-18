@@ -8,11 +8,6 @@
         "b": "It increases the resolution of textures automatically",
         "c": "It removes the need for UV mapping"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -22,11 +17,6 @@
         "a": "To increase real-time rendering speed by precomputing lighting and shadows",
         "b": "To create glowing effects for neon lights",
         "c": "To add extra details to bump maps"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -38,13 +28,9 @@
         "b": "It eliminates the need for UV mapping",
         "c": "It is only useful for character design"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
 }
+
